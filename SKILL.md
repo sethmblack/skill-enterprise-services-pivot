@@ -3,8 +3,8 @@ name: enterprise-services-pivot
 description: Transform a product-centric business into a services-led model by helping customers solve problems, integrate systems, and manage complexity.
 license: MIT
 metadata:
+  version: 1.0.3909
   author: sethmblack
-  version: 1.0.3908
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - enterprise-services-pivot
